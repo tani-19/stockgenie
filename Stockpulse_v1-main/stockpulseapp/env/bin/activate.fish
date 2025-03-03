@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/tanishkaratnani/Desktop/Stockpulse_v1-main/stockpulseapp/env"
+set -gx VIRTUAL_ENV "/Users/tanishkaratnani/Desktop/stockgenie/Stockpulse_v1-main/stockpulseapp/env"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
