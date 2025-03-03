@@ -45,32 +45,28 @@ To test the accuracy of the predictions made by the model, you can test the pred
 ## Setup Instructions:
 To set up and run the project locally, follow these steps:
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/Aaidt/Stockpulse_v1.git
-    ```
-2. Navigate to the project directory:
+1. Navigate to the project directory:
     ```bash
     cd stockpulseapp
     ```
-3. Create a virtual environment and activate it:
+2. Create a virtual environment and activate it:
     ```bash
     python -m venv env
     # For Windows: .\env\Scripts\activate
     ```
-4. Install the required packages:
+3. Install the required packages:
     ```bash
     pip install -r requirements.txt
     ```
-5. Add your NewsAPI Key:
+4. Add your NewsAPI Key:
     ```bash
    newsapi = NewsApiClient(api_key='YOUR_API_KEY_HERE')
    ```
-7. Run the Streamlit app:
+5. Run the Streamlit app:
     ```bash
     streamlit run app.py
     ```
-8. Run the StockPulse website:
+6. Run the StockPulse website:
     ```bash
     python manage.py runserver
     ```
