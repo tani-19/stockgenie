@@ -1,4 +1,4 @@
-#!/Users/tanishkaratnani/Desktop/Stockpulse_v1-main/stockpulseapp/env/bin/python3.12
+#!/Users/tanishkaratnani/Desktop/stockgenie/Stockpulse_v1-main/stockpulseapp/env/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys
