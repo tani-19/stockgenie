@@ -30,8 +30,8 @@ To test the accuracy of the predictions made by the model, you can test the pred
   
 ## Screenshots:
 
-<img src="Desktop/stockgenie/Stockpulse_v1-main/screenshots/SPgif.gif" alt="Screenshot 2" width="700" height="400">
-<img src="Desktop/stockgenie/Stockpulse_v1-main/screenshots/pred_front.png" alt="Screenshot 1" width="700" height="400"> 
+<img src="screenshots/SPgif.gif" alt="Screenshot 2" width="700" height="400">
+<img src="screenshots/pred_front.png" alt="Screenshot 1" width="700" height="400"> 
 <img src="screenshots/raw_data.png" alt="Screenshot 2" width="700" height="400">
 <img src="screenshots/cp_MA.png" alt="Screenshot 2" width="700" height="400">
 <img src="screenshots/trading_vol.png" alt="Screenshot 2" width="700" height="400">
